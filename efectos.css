@@ -1,0 +1,70 @@
+p
+{
+	color:#0000FF;
+	font-size:14pt;
+	font-weight:bold;
+	font-family:Courier;
+}
+
+.encabezado{
+	background:black;
+	color:limegreen;
+	width:90%;
+	border-radius:15px;
+
+}
+
+.boton_azul{
+	background:blue;
+	color:white;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+
+}
+
+.boton_azul:hover{
+	background:white;
+	color:blue;
+}
+
+.boton_amarillo{
+	background:yellow;
+	color:white;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+
+}
+
+.boton_amarillo:hover{
+	background:white;
+	color:yellow;
+}
+
+.boton_rojo{
+	background:red;
+	color:white;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+
+}
+
+.boton_rojo:hover{
+	background:white;
+	color:red;
+
+}
+
+ .campo{
+		background: blue;
+		color: white;
+		font-size: 16pt;
+		font-weight: bold;
+		border-radius: 15px;
+		text-align: 10px;
+}
+
+
+
